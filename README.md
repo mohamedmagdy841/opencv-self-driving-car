@@ -11,10 +11,11 @@ The project involves the integration of motor control mechanisms, allowing the
 Raspberry Pi 4 to send signals to the car's actuators based on the decisions made by the 
 computer vision system.
 
-<div>
-<img src="https://github.com/mohamedmagdy841/opencv-self-driving-car/assets/64127744/d2331460-c880-4aef-a654-ffde25933e51" width="485" align="Left">
-<img src="https://github.com/mohamedmagdy841/opencv-self-driving-car/assets/64127744/8b446a8b-2059-45d9-aa9c-73aaad93cc3b" width="485" align="Right">
-</div>
+<p float="left">
+  <img src="https://github.com/mohamedmagdy841/opencv-self-driving-car/assets/64127744/d2331460-c880-4aef-a654-ffde25933e51" width="485" >
+  <img src="https://github.com/mohamedmagdy841/opencv-self-driving-car/assets/64127744/8b446a8b-2059-45d9-aa9c-73aaad93cc3b" width="485" >
+</p>
+
 <br clear="right"/>
 
 ## Main Idea
